@@ -1,1 +1,1 @@
-# solu-es-dos-exerc-cios-da-introdu-o-Logica-Lista-1
+# soluces-dos-exercicios-da-introducao-Logica-Lista-1
